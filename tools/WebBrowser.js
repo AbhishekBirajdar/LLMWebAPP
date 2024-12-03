@@ -4,9 +4,6 @@ import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 
 const WebBrowserTool = () => {
   // do stuff!
-
-
-
   ////
 };
 
